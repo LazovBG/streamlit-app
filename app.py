@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("🌤️ Weather App")
+st.title("🌤️ Програма за времето на Левент")
 
 city = st.text_input("Въведи град:")
 
